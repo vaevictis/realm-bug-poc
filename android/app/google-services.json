@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055806339969",
+    "firebase_url": "https://gottman-app.firebaseio.com",
+    "project_id": "gottman-app",
+    "storage_bucket": "gottman-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055806339969:android:750a39ccb713e1d448c680",
+        "android_client_info": {
+          "package_name": "com.carddecks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055806339969-dkrbfpd5babjaa218t5ugpd81bkivpcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzlKKTQEv0gE4Td3zQ-UJqVQxx6mbSdVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055806339969-dkrbfpd5babjaa218t5ugpd81bkivpcl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055806339969-5j320t02icr1b552h4ra6t2avirvtkr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gottman.carddecks",
+                "app_store_id": "1292398843"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
